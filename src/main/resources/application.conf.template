@@ -1,0 +1,6 @@
+services {
+  user-account {
+    spotify-client-id = "YOUR_CLIENT_ID"
+    spotify-client-secret = "YOUR_CLIENT_SECRET"
+  }
+}
